@@ -1,8 +1,107 @@
- 👋 Hi, I’m @nikhildongre8262
- 👀 I’m interested in Research and Development and AI-ML Enthusiasts and Hands-on skills in Salesforce ecosystems...
- 🌱 I’m currently learning Data Analytics and Machine Learning...
- 📫 How to reach me: connect on LinkedIn: https://www.linkedin.com/in/nikhil-dongare28...
-<!---
-nikhildongre8262/nikhildongre8262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Nikhil Dongare 👋
+
+### CSE Graduate | Aspiring Cybersecurity Professional
+
+I'm a Computer Science & Engineering graduate (2026) building my skills in
+**Cybersecurity, Computer Networking, Linux, Cloud Computing, and Python**.
+
+I'm focused on developing practical, hands-on skills through labs, projects,
+CTFs, and security-focused learning.
+
+---
+
+## 🔐 Current Focus
+
+- 🛡️ Cybersecurity
+- 🌐 Computer Networking
+- 🐧 Linux & System Administration
+- ☁️ Cloud Security & Cloud Fundamentals
+- 🐍 Python for Security Automation
+- 🔎 Vulnerability Assessment & Security Testing
+- 🧪 CTFs & Security Labs
+- 🔴 Red Team / Offensive Security Fundamentals
+
+---
+
+## 🧰 Technical Skills
+
+### Cybersecurity
+- Networking & Security Fundamentals
+- Linux Security Fundamentals
+- Vulnerability Assessment
+- Web Security Fundamentals
+- Security Testing
+- CTF / Security Labs
+
+### Networking
+- OSI & TCP/IP Models
+- Ethernet
+- MAC & IP Addressing
+- ARP
+- VLANs
+- STP
+- Routing
+- Subnetting
+- TCP/UDP
+- DNS
+- DHCP
+- HTTP/HTTPS
+
+### Programming & Scripting
+- Python
+- C
+- JavaScript
+- HTML/CSS
+- Bash
+
+### Cloud & DevOps
+- AWS Fundamentals
+- Cloud Security Fundamentals
+- Git & GitHub
+- Linux
+- REST APIs
+- Postman
+
+### Data & Other Tools
+- SQL
+- Excel
+- MongoDB
+- Jupyter
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Cybersecurity Projects
+Coming soon...
+
+- Network Security Lab
+- Vulnerability Assessment Lab
+- Web Security Testing Lab
+- Python Security Automation Tools
+- Linux Security Lab
+
+### 🌐 Networking Projects
+Coming soon...
+
+- Network Troubleshooting Lab
+- Packet Analysis
+- Subnetting & Network Design
+- TCP/IP Analysis
+
+### ☁️ Cloud Projects
+Coming soon...
+
+- AWS Security Lab
+- IAM Security Practice
+- Cloud Monitoring & Logging
+- Secure Cloud Architecture
+
+### 📊 Existing CSE Projects
+
+- 📈 Capital Asset Pricing Model (CAPM) Dashboard
+- 🐍 Python Data Analysis Projects
+- 📊 Data Visualization Projects
+
+---
