@@ -30,8 +30,6 @@ CTFs, and security-focused learning.
 - Linux Security Fundamentals
 - Vulnerability Assessment
 - Web Security Fundamentals
-- Security Testing
-- CTF / Security Labs
 
 ### Networking
 - OSI & TCP/IP Models
@@ -81,22 +79,6 @@ Coming soon...
 - Web Security Testing Lab
 - Python Security Automation Tools
 - Linux Security Lab
-
-### 🌐 Networking Projects
-Coming soon...
-
-- Network Troubleshooting Lab
-- Packet Analysis
-- Subnetting & Network Design
-- TCP/IP Analysis
-
-### ☁️ Cloud Projects
-Coming soon...
-
-- AWS Security Lab
-- IAM Security Practice
-- Cloud Monitoring & Logging
-- Secure Cloud Architecture
 
 ### 📊 Existing CSE Projects
 
