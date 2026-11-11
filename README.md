@@ -29,7 +29,6 @@ CTFs, and security-focused learning.
 - Networking & Security Fundamentals
 - Linux Security Fundamentals
 - Vulnerability Assessment
-- Web Security Fundamentals
 
 ### Networking
 - OSI & TCP/IP Models
@@ -51,24 +50,7 @@ CTFs, and security-focused learning.
 - JavaScript
 - HTML/CSS
 - Bash
-
-### Cloud & DevOps
-- AWS Fundamentals
-- Cloud Security Fundamentals
-- Git & GitHub
-- Linux
-- REST APIs
-- Postman
-
-### Data & Other Tools
-- SQL
-- Excel
-- MongoDB
-- Jupyter
-- VS Code
-
 ---
-
 ## 🚀 Featured Projects
 
 ### 🔐 Cybersecurity Projects
@@ -77,7 +59,6 @@ Coming soon...
 - Network Security Lab
 - Vulnerability Assessment Lab
 - Web Security Testing Lab
-- Python Security Automation Tools
 - Linux Security Lab
 
 ### 📊 Existing CSE Projects
