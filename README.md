@@ -19,7 +19,7 @@ CTFs, and security-focused learning.
 - 🐍 Python for Security Automation
 - 🔎 Vulnerability Assessment & Security Testing
 - 🧪 CTFs & Security Labs
-- 🔴 Red Team / Offensive Security Fundamentals
+- 🔵 Blue Team Security Fundamentals
 
 ---
 
