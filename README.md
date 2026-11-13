@@ -12,14 +12,16 @@ CTFs, and security-focused learning.
 
 ## 🔐 Current Focus
 
-- 🛡️ Cybersecurity
-- 🌐 Computer Networking
+- 🛡️ Cybersecurity & Blue Team Fundamentals
+- 🔎 SOC Operations & Security Monitoring
+- 🌐 Computer Networking & Network Security
 - 🐧 Linux & System Administration
-- ☁️ Cloud Security & Cloud Fundamentals
+- ☁️ Cloud Security Fundamentals
 - 🐍 Python for Security Automation
-- 🔎 Vulnerability Assessment & Security Testing
-- 🧪 CTFs & Security Labs
-- 🔵 Blue Team Security Fundamentals
+- 📊 SIEM, Log Analysis & Threat Detection
+- 🧪 CTFs & Hands-on Security Labs
+- 🔍 Vulnerability Assessment Fundamentals
+
 
 ---
 
